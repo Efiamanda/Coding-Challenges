@@ -1,1 +1,5 @@
 venv/
+__pycache__/
+*.pyc
+data/test_encoded.txt
+data/test_decoded.text
